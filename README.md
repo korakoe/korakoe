@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korakoe" alt="korakoe" /></a> </p>
 
-- 🔭 I’m currently working on **Hengan**
+- 🔭 I’m currently working on **Ganime**
 
 - 🌱 I’m currently learning **TKinter and Machine learning**
 
