@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm ButterCream!</h1>
-<h3 align="center">idk what im doin</h3>
+<h1 align="center">I'm ButterCream!</h1>
+<h3 align="center">Founder of ShoukanLabs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korakoe&label=Profile%20views&color=0e75b6&style=flat" alt="korakoe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korakoe" alt="korakoe" /></a> </p>
 
-- 🔭 I’m currently working on **Simo.**
+- 🔭 I’m currently working on **Vokan-V2.**
 
-- 🌱 I’m currently learning **Frontend and Game Modification**
-
-- ⚡ Fun fact **I'm not funny**
+- 🌱 I’m currently learning **TTS Technology**
 
 
 <h3 align="left">Languages and Tools:</h3>
